@@ -11,4 +11,4 @@ third commit
 
 ``` print(hi) ```
 
--[ ] 체크리스트
+- [x] 체크리스트
